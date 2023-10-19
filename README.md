@@ -1,10 +1,4 @@
 
-#About me
-👋 Hello there! I'm Sumit roy, a data enthusiast with a passion for transforming raw information into actionable insights. 
-My toolbox includes Excel, SQL, Python, and Power BI, which I wield to slice, dice, and visualize data. 
-Whether it's mining valuable insights from databases, automating tasks with Python scripts, or crafting compelling data stories with Power BI, I'm all about making data work for you. 
-Follow along as I explore the world of data analysis and share my journey on GitHub. 
-📊💡 #DataAnalytics #Excel #SQL #Python #PowerBI
 
 
 # HR-Analytics
